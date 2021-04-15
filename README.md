@@ -2,9 +2,9 @@
 A code that convert video into powerpoint.
 
 # Setup
- -Install Python packages:
+ Install Python packages:
  `pip install -r requirements.txt` 
- -Install JavaScript packages:
+ Install JavaScript packages:
  `npm i`
  
  # Usage
