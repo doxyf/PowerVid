@@ -2,8 +2,8 @@
 A code that convert video into powerpoint.
 
 # Setup
- `pip install -r requirements.txt`
- `npm i`
+ -`pip install -r requirements.txt`
+ -`npm i`
  
  # Usage
  - At first you need to enter correct video path to the video.
